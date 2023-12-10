@@ -18,17 +18,31 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 
 ### Análisis y Resultados:
 
-# Balance de Clases: 
+# Balance de clases: 
 
-![Distribucion de razas en los datos](distribucion.png)
+![Distribucion de razas en los datos](./Plots/distribucion.png)
 
-![Distribucion de razas en los datos](razas.png)
+![Razas](./Plots/razas.png)
 
-# Resultados: 
+# Resultados
 
-# Matriz de Confusión: 
+### ResNet18
 
+![ResNet18](./Plots/accuracy_resnet18.png)
 
+![ResNet18](./Plots/precision_resnet18.png)
+
+![ResNet18](./Plots/recall_resnet18.png)
+
+### ResNet50
+
+# Matrices de confusión
+
+### ResNet18
+
+![ResNet18](./Plots/confmatrix_resnet18.png)
+
+### ResNet50
 
 
 
