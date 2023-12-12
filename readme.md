@@ -6,7 +6,7 @@
 
 En este repositorio se encuentra el trabajo final de la materia Visión por Computadora II de la Especialización en Inteligencia Artificial de la FIUBA.
 
-### Descripción del proyecto:
+## Descripción del proyecto
 
 - **Objetivo:** Identificar la raza de perros en imágenes.
 - **Tipo de problema:** Clasificación multiclase.
@@ -16,19 +16,19 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 - **Transfer Learning:** Implementado utilizando el conjunto de datos IMAGENET.
 - **Data Augmentation:** Técnicas como Horizontal Flip, Resized Crop y Normalize.
 
-### Análisis y Resultados:
+## Análisis y Resultados
 
-# Balance de clases
+### Dataset 
 
 ![Distribucion de razas en los datos](./Plots/distribucion.png)
 
 ![Razas](./Plots/razas.png)
 
-# Resultados
+### Resultados
 
 ![ResNet18](./Plots/Testset_ejs.PNG)
 
-### ResNet18
+#### ResNet18
 
 ![ResNet18](./Plots/accuracy_resnet18.png)
 
@@ -36,7 +36,7 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 
 ![ResNet18](./Plots/recall_resnet18.png)
 
-### ResNet50
+#### ResNet50
 
 ![ResNet18](./Plots/accuracy_resnet50.png)
 
