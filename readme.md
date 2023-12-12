@@ -12,19 +12,21 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 - **Tipo de problema:** Clasificación multiclase.
 - **Cantidad de clases:** 120 razas de perros, incluyendo 'Pekinese', 'Labrador', 'Bulldog', entre otras.
 - **Dataset:** 20,580 imágenes, divididas en un 80% para entrenamiento y un 20% para test.
-- **Arquitecturas de modelos utilizadas:** ResNet18, ResNet50, VGG19.
+- **Arquitecturas de modelos utilizadas:** ResNet18, ResNet50.
 - **Transfer Learning:** Implementado utilizando el conjunto de datos IMAGENET.
 - **Data Augmentation:** Técnicas como Horizontal Flip, Resized Crop y Normalize.
 
 ### Análisis y Resultados:
 
-# Balance de clases: 
+# Balance de clases
 
 ![Distribucion de razas en los datos](./Plots/distribucion.png)
 
 ![Razas](./Plots/razas.png)
 
 # Resultados
+
+![ResNet18](./Plots/Testset_ejs.PNG)
 
 ### ResNet18
 
@@ -36,13 +38,15 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 
 ### ResNet50
 
-# Matrices de confusión
+![ResNet18](./Plots/accuracy_resnet50.png)
 
-### ResNet18
+![ResNet18](./Plots/precision_resnet50.png)
 
-![ResNet18](./Plots/confmatrix_resnet18.png)
+![ResNet18](./Plots/recall_resnet50.png)
 
-### ResNet50
+
+
+
 
 
 
