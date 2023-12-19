@@ -38,7 +38,7 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 
 ![ResNet50](./perros2_yolo2.png)
 
-![ResNet50](./Perritos-Felices_yolo.png)
+![ResNet50](./Perritos-Felices_yolo2.png)
 
 
 
