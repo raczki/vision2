@@ -24,10 +24,6 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 
 ![Razas](./Plots/razas.png)
 
-### Resultados
-
-![ResNet18](./Plots/Testset_ejs.PNG)
-
 #### ResNet18
 
 ![ResNet18](./Plots/accuracy_resnet18.png)
@@ -38,11 +34,17 @@ En este repositorio se encuentra el trabajo final de la materia Visión por Comp
 
 #### ResNet50
 
-![ResNet18](./Plots/accuracy_resnet50.png)
+![ResNet50](./Plots/accuracy_resnet50.png)
 
-![ResNet18](./Plots/precision_resnet50.png)
+![ResNet50](./Plots/precision_resnet50.png)
 
-![ResNet18](./Plots/recall_resnet50.png)
+![ResNet50](./Plots/recall_resnet50.png)
+
+### Resultados
+
+![ResNet50](./Plots/Testset_ejs.PNG)
+
+![ResNet50](./perros2_yolo2.png)
 
 
 
